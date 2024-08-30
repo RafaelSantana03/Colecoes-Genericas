@@ -1,0 +1,14 @@
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\bin\Debug\net8.0\Exercicio11.exe
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\bin\Debug\net8.0\Exercicio11.deps.json
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\bin\Debug\net8.0\Exercicio11.runtimeconfig.json
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\bin\Debug\net8.0\Exercicio11.dll
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\bin\Debug\net8.0\Exercicio11.pdb
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\obj\Debug\net8.0\Exercicio11.GeneratedMSBuildEditorConfig.editorconfig
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\obj\Debug\net8.0\Exercicio11.AssemblyInfoInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\obj\Debug\net8.0\Exercicio11.AssemblyInfo.cs
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\obj\Debug\net8.0\Exercicio11.csproj.CoreCompileInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\obj\Debug\net8.0\Exercicio11.dll
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\obj\Debug\net8.0\refint\Exercicio11.dll
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\obj\Debug\net8.0\Exercicio11.pdb
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\obj\Debug\net8.0\Exercicio11.genruntimeconfig.cache
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio11\obj\Debug\net8.0\ref\Exercicio11.dll

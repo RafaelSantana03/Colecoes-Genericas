@@ -1,0 +1,14 @@
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\bin\Debug\net8.0\Exercicio09.exe
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\bin\Debug\net8.0\Exercicio09.deps.json
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\bin\Debug\net8.0\Exercicio09.runtimeconfig.json
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\bin\Debug\net8.0\Exercicio09.dll
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\bin\Debug\net8.0\Exercicio09.pdb
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\obj\Debug\net8.0\Exercicio09.GeneratedMSBuildEditorConfig.editorconfig
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\obj\Debug\net8.0\Exercicio09.AssemblyInfoInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\obj\Debug\net8.0\Exercicio09.AssemblyInfo.cs
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\obj\Debug\net8.0\Exercicio09.csproj.CoreCompileInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\obj\Debug\net8.0\Exercicio09.dll
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\obj\Debug\net8.0\refint\Exercicio09.dll
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\obj\Debug\net8.0\Exercicio09.pdb
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\obj\Debug\net8.0\Exercicio09.genruntimeconfig.cache
+A:\MACORATTI_C#_ESSENCIAL\Generics\Exercicio09\obj\Debug\net8.0\ref\Exercicio09.dll
