@@ -4,9 +4,6 @@ Este repositório contém exercícios focados em coleções genéricas, desenvol
 
 ## Questões
 
-### 8. Adicionar dois números inteiros usando Generics
-- Escreva um programa que utiliza o conceito de Generics para adicionar dois números inteiros.
-
 ### 9. Criar uma lista de objetos Aluno
 - Escreva um programa que crie uma lista de objetos `Aluno` que contém as propriedades: Nome, Idade e Sexo.
 - Defina 5 objetos do tipo `Aluno` e exiba a lista de alunos no console.
